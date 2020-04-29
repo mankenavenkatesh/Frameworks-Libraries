@@ -2,7 +2,7 @@
 This Repo explains about different libraries and frameworks
 
 # Libraries
-## Basic library in-built in most of the languages
+## Standard libraries in-built in most of the languages
 - `http`
 - `math`
 - `net`
